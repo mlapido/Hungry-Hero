@@ -10,3 +10,8 @@ bin-release/
 
 # OS X folders
 .DS_Store
+.actionScriptProperties
+
+.project
+
+src/HungryHero1-app.xml
